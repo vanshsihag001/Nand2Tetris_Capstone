@@ -1,6 +1,6 @@
 # Capstone: Make the Computer Draw a Box
-Name: Vansh Sihag || Roll Number: 2501730387 || Course: Btech CSE (AI & ML) || Section: F
-**Course:** Nand to Tetris – I (ETCCNT301), School of Engineering & Technology, K.R. Mangalam University
+**Name: Vansh Sihag** || **Roll Number: 2501730387** || **Course: Btech CSE (AI & ML)** || **Section: F** ||
+**Subject:** Nand to Tetris – I (ETCCNT301), School of Engineering & Technology, K.R. Mangalam University ||
 **K:** 87
 
 ## What this project does
